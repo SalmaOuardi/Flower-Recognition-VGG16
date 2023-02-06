@@ -37,4 +37,4 @@ For each class there are about 800 photos. Photos are not high resolution, about
 ------
 
 
-![Flowers](https://storage.googleapis.com/tfds-data/visualization/fig/tf_flowers-3.0.1.png) 
+![Flowers](https://imgur.com/a/ux1TwxU) 
