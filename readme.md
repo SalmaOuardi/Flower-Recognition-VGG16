@@ -34,4 +34,7 @@ You can use this datastet to recognize plants from the photo.
 The pictures are divided into five classes: chamomile, tulip, rose, sunflower, dandelion.
 For each class there are about 800 photos. Photos are not high resolution, about 320x240 pixels. Photos are not reduced to a single size, they have different proportions!
 
-  ![Flowers](https://storage.googleapis.com/tfds-data/visualization/fig/tf_flowers-3.0.1.png) 
+------
+
+
+![Flowers](https://storage.googleapis.com/tfds-data/visualization/fig/tf_flowers-3.0.1.png) 
