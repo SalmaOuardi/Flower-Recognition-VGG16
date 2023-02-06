@@ -37,4 +37,4 @@ For each class there are about 800 photos. Photos are not high resolution, about
 ------
 
 
-![Flowers](https://imgur.com/a/ux1TwxU) 
+![Flowers](https://i.imgur.com/cmHcH3e.png) 
